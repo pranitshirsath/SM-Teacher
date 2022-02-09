@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Pranit_Projects\\LatestProjects\\UploadedToPlaystore\\29Jan\\SM Staff\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-h680dp-v13\\values-sw360dp-h680dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\852ad59e8270c2310ad4a87aff8f108a\\res\\values-sw360dp-h680dp-v13\\values-sw360dp-h680dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,171,227",
+                        "endColumns": "55,59,55,60",
+                        "endOffsets": "106,166,222,283"
+                    }
+                }
+            ]
+        }
+    ]
+}

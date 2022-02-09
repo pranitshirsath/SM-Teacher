@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: us.zoom.sdk:mobilertc:@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d2182dd5287c3ff2b0613e91ab6f7b/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d2182dd5287c3ff2b0613e91ab6f7b/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d2182dd5287c3ff2b0613e91ab6f7b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d2182dd5287c3ff2b0613e91ab6f7b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d2182dd5287c3ff2b0613e91ab6f7b/jars/libs/protobuf-java-2.4.1-lite-zoom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

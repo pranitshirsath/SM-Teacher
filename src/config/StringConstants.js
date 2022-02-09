@@ -1,0 +1,17 @@
+export const PaymentTitle = 'Manage Payment';
+export const EnquiryTitle = 'Manage Enquiry';
+export const RegistrationTitle = 'Manage Registration';
+export const branchTitle = 'Manage Branch';
+export const selectBranchTitle = 'Select Branch';
+export const resetPass = 'Reset Password';
+export const loginTitle = 'Manage Login';
+export const attendanceTitle = 'Manage Attendance';
+export const batchTitle = 'Manage Batch';
+export const dailyActivityTitle = 'Manage Daily Activity';
+export const dailyActivityReport = 'Daily Activity Report';
+export const testResultTitle = 'Manage Test Result';
+export const testTitle = 'Manage Test';
+export const announcementTitle = 'Manage Announcement';
+export const virtualClass = "Virtual Class"
+export const UnableToConnect ='Unable to connect with server, Please try after some time';
+export const NoInternet = 'No internet connection';

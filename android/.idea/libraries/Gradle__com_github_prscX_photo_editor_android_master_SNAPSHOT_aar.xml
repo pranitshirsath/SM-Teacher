@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.prscX:photo-editor-android:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/085c5602cd271212f412ed51492b841b/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/085c5602cd271212f412ed51492b841b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/085c5602cd271212f412ed51492b841b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.prscX/photo-editor-android/master-SNAPSHOT/e49784e5fae03c97671f8e0f4693201b3dde774d/photo-editor-android-master-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

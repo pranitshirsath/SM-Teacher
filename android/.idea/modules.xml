@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1972912299/@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1972912299/@react-native-community_async-storage.iml" group="SM_Staff/@react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-326154228/@react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-326154228/@react-native-community_netinfo.iml" group="SM_Staff/@react-native-community_netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SM_Staff.iml" filepath="$PROJECT_DIR$/.idea/modules/SM_Staff.iml" group="SM_Staff" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="SM_Staff/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1393951508/react-native-cardview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1393951508/react-native-cardview.iml" group="SM_Staff/react-native-cardview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-326154228/react-native-community-netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-326154228/react-native-community-netinfo.iml" group="SM_Staff/react-native-community-netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-404609042/react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-404609042/react-native-device-info.iml" group="SM_Staff/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/22708265/react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/22708265/react-native-document-picker.iml" group="SM_Staff/react-native-document-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1065132116/react-native-file-viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1065132116/react-native-file-viewer.iml" group="SM_Staff/react-native-file-viewer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2045178180/react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/2045178180/react-native-fs.iml" group="SM_Staff/react-native-fs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1118428015/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1118428015/react-native-gesture-handler.iml" group="SM_Staff/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1312076702/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1312076702/react-native-image-crop-picker.iml" group="SM_Staff/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1738379137/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1738379137/react-native-linear-gradient.iml" group="SM_Staff/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-39388641/react-native-photo-editor.iml" filepath="$PROJECT_DIR$/.idea/modules/-39388641/react-native-photo-editor.iml" group="SM_Staff/react-native-photo-editor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1250945084/react-native-snackbar.iml" filepath="$PROJECT_DIR$/.idea/modules/1250945084/react-native-snackbar.iml" group="SM_Staff/react-native-snackbar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1534712966/react-native-sqlite-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1534712966/react-native-sqlite-storage.iml" group="SM_Staff/react-native-sqlite-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-853243193/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-853243193/react-native-vector-icons.iml" group="SM_Staff/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1520349534/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1520349534/react-native-webview.iml" group="SM_Staff/react-native-webview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1794204289/react-native-zoom-us.iml" filepath="$PROJECT_DIR$/.idea/modules/1794204289/react-native-zoom-us.iml" group="SM_Staff/react-native-zoom-us" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-882474864/rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-882474864/rn-fetch-blob.iml" group="SM_Staff/rn-fetch-blob" />
+    </modules>
+  </component>
+</project>

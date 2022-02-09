@@ -1,0 +1,53 @@
+{
+    "colorPrimary": "#04bcc1",
+    "colorPrimaryDark": "#00a2a6",
+    "colorAccent": "#ffb400",
+    "colorAccentDark": "#ECD053",
+    "colorAccentTrans66": "#ffb40066",
+    "colorPrimaryTrans66": "#00a2a6",
+    
+    "backgroundLayoutTrans": "#00000050",
+    "inputLayoutTrans": "#ffffffEE",
+    "white": "#ffffff",
+    "footer_white": "#f5f5f5",
+    "black": "#000000",
+    "background_gray": "#fafafa",
+    "font_gray": "#797979",
+    "light_gray": "#CCCCCC",
+    "lighten_gray": "#DFDFDF",
+    "lightest_gray": "#EEEEEE",
+    "darkgray": "#434343",
+    "semi_dark_gray": "#747474",
+    "grey_background": "#f5f5f5",
+    "gray_title" :"#808080",
+    "light_gray_row_bg":"#E8E8E8",
+
+    "mark_icon": "#8A64BF",
+
+    "googleGreen": "#34A853",
+    "googleBlue": "#4285F4",
+    "googleRed": "#EA4335",
+    "googleYellow": "#FBBC05",
+
+    "absences": "#ceab2a",
+    "schoolStart": "#339c79",
+    "holiday": "#eb8452",
+    "blue_color_link":"#009bea",
+    "yello_munsell":"#efcc00",
+    "yello_color":"#FFEB3B",
+    "blue_color_parent":"#009bea",
+
+    "faintRed":"#ff8f7b",
+    "faintGreen":"#96ca23",
+    "darkBlue":"#015c93",
+    "trialFaintRed":"#FF8A80",
+    "trialBlue":"#51c1ef",
+    "trialGreen":"#96ca23",
+
+
+    
+    "activeSwitchThreadColor":"#b3e5fc",
+    "activeSwitchBallColor":"#03a6ef",
+    "inActiveSwitchThreadColor":"#b1b1b1",
+    "inActiveSwitchBallColor":"#ececec"
+}

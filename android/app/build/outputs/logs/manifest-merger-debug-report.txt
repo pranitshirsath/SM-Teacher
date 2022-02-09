@@ -1,0 +1,784 @@
+-- Merging decision tree log ---
+provider#com.vinzscam.reactnativefileviewer.FileProvider
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:53:9-61:20
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:1:1-66:12
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:1:1-66:12
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:1:1-66:12
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:1:1-66:12
+MERGED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:1:1-66:12
+MERGED from [:react-native-zoom-us] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-zoom-us\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-photo-editor] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-photo-editor\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-snackbar] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-47:12
+MERGED from [:react-native-vector-icons] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-cardview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-cardview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-document-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-document-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-community-netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-fs] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-fs\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-sqlite-storage] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-sqlite-storage\src\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4bcf659b6a44f081f9de0f13b9d6c279\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0d6f2cc9a4641e178a62d10a7e0609b5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.prscX:photo-editor-android:master] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55b28ef49bfee2ad6a672197d674f90d\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\484a962007a8c6c5fde24c409d1dbfc2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bff3d7efa22c1d40800ee78320723806\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-gesture-handler] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [us.zoom.sdk:commonlib:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7fa01e831eaa3f85da71feb5ca2a7d01\AndroidManifest.xml:2:1-11:12
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:2:1-136:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8d5c888276f0a4cf39949ed76f16dc76\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\791d016a478927ddbb604c787bec107b\AndroidManifest.xml:2:1-11:12
+MERGED from [fr.avianey.com.viewpagerindicator:library:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08dd26865e5666d66c5ab0bfb0401d7\AndroidManifest.xml:3:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5cf176b1d1790518f14eee75de7ddf7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff1c409405683ba8da94cd12834bcc22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9a75494b0afca939acbd421691a8cf03\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\faebe1be0308403d50a6a7e748fe6d3c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d34a4bbeb4cc3e78445f5a3c824b236b\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9df8087a2453c2cdd3b158a7db7c0a90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cdc6e562bd924be38d622131ea955fd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2916d60f98de0f969dc1768ea6a565a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e2a371d0a46de795f2b039c3e1ac86bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b4939748980aa18c4627025c6d76dbfe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8275bc21bb7e00d8bad76b438aa1a430\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\56bdf53e26456ce0279afe84b2613554\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\663b493503eb170260de22e85ebeeddc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e0cabe45ddfd9e979c583804e8182a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa0a3d86d533eb6799325b13c0ac2afe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dffe3401b70ace2c09c594ce09355203\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ac3384b786705a84566525353205357\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\faf378a426201ad0eff08f978cfea2ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b7e2a5ca41ab838c8f2115e94ae4bd4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\377135b22968e6ad6387ef8a3c28ba2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\454bd9309794f3914974a6c62b967586\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a36ac6b8ab0da2ed8a6e671e9080a257\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cbbfd285f9e929601de060eff63a78eb\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\138a8f514e18f2f31bcbf1c765cdddba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\08a393c64c385860aff7fc48a16a712e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cad72095446bf8af3df454d99ec1190e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bde10b565e0b5c54f5038cedaa90bd88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b253ccb8647b9cb07deb6691a686ea23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\be5551bdb67779828fd5de66f647e09c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4b7d4b5f24ff50211523a2f65a309e82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\89e4a13c8b3543e2e8dfd4d8fa6dccaf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\77470bfdd902ef2a6880e8c2eaf3ded4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9168f6c810a10a74893ad903f33c188b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9beca0f1f3201c5136add898fae9276a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3784f1c013864843540a34c8677ee7f6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\70b7c28b620c072548059db8e6c481db\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\abf77f66dc7b8fedbb7b23a25f57f34a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\953ae392d6db7388d5432b8e09bc490f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\22c895baff3e59e8457914b5e0a39682\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\50059747b2efa122b2b60bba3e4fc2cd\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:1:1-66:12
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:1:1-66:12
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:29:5-67
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:29:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-79
+MERGED from [:@react-native-community_netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:@react-native-community_netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community-netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community-netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:31:5-79
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:7:5-75
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:30:5-75
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-81
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-fs] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-fs\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-fs\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:28:5-81
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:10:5-65
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:35:5-65
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:12:5-88
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:12:22-85
+application
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:14:5-64:19
+MERGED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:14:5-64:19
+MERGED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:14:5-64:19
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-45:19
+MERGED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4bcf659b6a44f081f9de0f13b9d6c279\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4bcf659b6a44f081f9de0f13b9d6c279\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0d6f2cc9a4641e178a62d10a7e0609b5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0d6f2cc9a4641e178a62d10a7e0609b5\AndroidManifest.xml:22:5-20
+MERGED from [com.github.prscX:photo-editor-android:master] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55b28ef49bfee2ad6a672197d674f90d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.prscX:photo-editor-android:master] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55b28ef49bfee2ad6a672197d674f90d\AndroidManifest.xml:11:5-15:19
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:44:5-134:19
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:44:5-134:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\791d016a478927ddbb604c787bec107b\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\791d016a478927ddbb604c787bec107b\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9a75494b0afca939acbd421691a8cf03\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9a75494b0afca939acbd421691a8cf03\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\faebe1be0308403d50a6a7e748fe6d3c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\faebe1be0308403d50a6a7e748fe6d3c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d34a4bbeb4cc3e78445f5a3c824b236b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d34a4bbeb4cc3e78445f5a3c824b236b\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a36ac6b8ab0da2ed8a6e671e9080a257\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a36ac6b8ab0da2ed8a6e671e9080a257\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cbbfd285f9e929601de060eff63a78eb\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cbbfd285f9e929601de060eff63a78eb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\22c895baff3e59e8457914b5e0a39682\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\22c895baff3e59e8457914b5e0a39682\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a36ac6b8ab0da2ed8a6e671e9080a257\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.github.prscX:photo-editor-android:master] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55b28ef49bfee2ad6a672197d674f90d\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml:9:9-48
+	android:roundIcon
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:18:9-48
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:18:9-48
+	tools:targetApi
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml:8:9-29
+	android:icon
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:21:9-40
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:21:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.sm_teacher.MainActivity
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:23:9-51:20
+	android:label
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:25:13-45
+	android:windowSoftInputMode
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:27:13-55
+	android:configChanges
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:26:13-83
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:30:27-74
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.schoolmagica.com+data:pathPattern:/+data:scheme:https
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:32:13-42:29
+action#android.intent.action.VIEW
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:33:25-66
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:34:25-79
+category#android.intent.category.DEFAULT
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:35:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:36:27-75
+data
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:38:16-41:46
+	android:host
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:39:21-56
+	android:scheme
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:41:21-43
+	android:pathPattern
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:40:21-44
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.schoolmagica
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:43:13-50:29
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:52:9-86
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:52:19-83
+activity#com.ahmedadeltito.photoeditor.PhotoEditorActivity
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:62:17-94
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:62:27-91
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:63:9-69
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-25:72
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml:63:19-66
+uses-sdk
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-zoom-us] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-zoom-us\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-zoom-us] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-zoom-us\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-photo-editor] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-photo-editor\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-photo-editor] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-photo-editor\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snackbar] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snackbar] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-cardview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-cardview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-cardview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-cardview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-document-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-document-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-document-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community-netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community-netinfo] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-fs\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-fs\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-sqlite-storage\src\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-sqlite-storage\src\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4bcf659b6a44f081f9de0f13b9d6c279\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4bcf659b6a44f081f9de0f13b9d6c279\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0d6f2cc9a4641e178a62d10a7e0609b5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0d6f2cc9a4641e178a62d10a7e0609b5\AndroidManifest.xml:20:5-44
+MERGED from [com.github.prscX:photo-editor-android:master] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55b28ef49bfee2ad6a672197d674f90d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.prscX:photo-editor-android:master] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\55b28ef49bfee2ad6a672197d674f90d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\484a962007a8c6c5fde24c409d1dbfc2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\484a962007a8c6c5fde24c409d1dbfc2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bff3d7efa22c1d40800ee78320723806\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bff3d7efa22c1d40800ee78320723806\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-gesture-handler] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [us.zoom.sdk:commonlib:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7fa01e831eaa3f85da71feb5ca2a7d01\AndroidManifest.xml:7:5-9:41
+MERGED from [us.zoom.sdk:commonlib:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7fa01e831eaa3f85da71feb5ca2a7d01\AndroidManifest.xml:7:5-9:41
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:7:5-9:41
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8d5c888276f0a4cf39949ed76f16dc76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8d5c888276f0a4cf39949ed76f16dc76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\791d016a478927ddbb604c787bec107b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\791d016a478927ddbb604c787bec107b\AndroidManifest.xml:5:5-7:41
+MERGED from [fr.avianey.com.viewpagerindicator:library:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08dd26865e5666d66c5ab0bfb0401d7\AndroidManifest.xml:8:5-43
+MERGED from [fr.avianey.com.viewpagerindicator:library:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08dd26865e5666d66c5ab0bfb0401d7\AndroidManifest.xml:8:5-43
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5cf176b1d1790518f14eee75de7ddf7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5cf176b1d1790518f14eee75de7ddf7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff1c409405683ba8da94cd12834bcc22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff1c409405683ba8da94cd12834bcc22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9a75494b0afca939acbd421691a8cf03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9a75494b0afca939acbd421691a8cf03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\faebe1be0308403d50a6a7e748fe6d3c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\faebe1be0308403d50a6a7e748fe6d3c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d34a4bbeb4cc3e78445f5a3c824b236b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d34a4bbeb4cc3e78445f5a3c824b236b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9df8087a2453c2cdd3b158a7db7c0a90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9df8087a2453c2cdd3b158a7db7c0a90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cdc6e562bd924be38d622131ea955fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cdc6e562bd924be38d622131ea955fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2916d60f98de0f969dc1768ea6a565a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2916d60f98de0f969dc1768ea6a565a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e2a371d0a46de795f2b039c3e1ac86bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e2a371d0a46de795f2b039c3e1ac86bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b4939748980aa18c4627025c6d76dbfe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b4939748980aa18c4627025c6d76dbfe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8275bc21bb7e00d8bad76b438aa1a430\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8275bc21bb7e00d8bad76b438aa1a430\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\56bdf53e26456ce0279afe84b2613554\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\56bdf53e26456ce0279afe84b2613554\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\663b493503eb170260de22e85ebeeddc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\663b493503eb170260de22e85ebeeddc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e0cabe45ddfd9e979c583804e8182a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e0cabe45ddfd9e979c583804e8182a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa0a3d86d533eb6799325b13c0ac2afe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa0a3d86d533eb6799325b13c0ac2afe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dffe3401b70ace2c09c594ce09355203\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dffe3401b70ace2c09c594ce09355203\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ac3384b786705a84566525353205357\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ac3384b786705a84566525353205357\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\faf378a426201ad0eff08f978cfea2ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\faf378a426201ad0eff08f978cfea2ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b7e2a5ca41ab838c8f2115e94ae4bd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b7e2a5ca41ab838c8f2115e94ae4bd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\377135b22968e6ad6387ef8a3c28ba2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\377135b22968e6ad6387ef8a3c28ba2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\454bd9309794f3914974a6c62b967586\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\454bd9309794f3914974a6c62b967586\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a36ac6b8ab0da2ed8a6e671e9080a257\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a36ac6b8ab0da2ed8a6e671e9080a257\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cbbfd285f9e929601de060eff63a78eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cbbfd285f9e929601de060eff63a78eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\138a8f514e18f2f31bcbf1c765cdddba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\138a8f514e18f2f31bcbf1c765cdddba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\08a393c64c385860aff7fc48a16a712e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\08a393c64c385860aff7fc48a16a712e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cad72095446bf8af3df454d99ec1190e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cad72095446bf8af3df454d99ec1190e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bde10b565e0b5c54f5038cedaa90bd88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bde10b565e0b5c54f5038cedaa90bd88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b253ccb8647b9cb07deb6691a686ea23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b253ccb8647b9cb07deb6691a686ea23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\be5551bdb67779828fd5de66f647e09c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\be5551bdb67779828fd5de66f647e09c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4b7d4b5f24ff50211523a2f65a309e82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4b7d4b5f24ff50211523a2f65a309e82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\89e4a13c8b3543e2e8dfd4d8fa6dccaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\89e4a13c8b3543e2e8dfd4d8fa6dccaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\77470bfdd902ef2a6880e8c2eaf3ded4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\77470bfdd902ef2a6880e8c2eaf3ded4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9168f6c810a10a74893ad903f33c188b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9168f6c810a10a74893ad903f33c188b\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9beca0f1f3201c5136add898fae9276a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9beca0f1f3201c5136add898fae9276a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3784f1c013864843540a34c8677ee7f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3784f1c013864843540a34c8677ee7f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\70b7c28b620c072548059db8e6c481db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\70b7c28b620c072548059db8e6c481db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\abf77f66dc7b8fedbb7b23a25f57f34a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\abf77f66dc7b8fedbb7b23a25f57f34a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\953ae392d6db7388d5432b8e09bc490f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\953ae392d6db7388d5432b8e09bc490f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\22c895baff3e59e8457914b5e0a39682\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\22c895baff3e59e8457914b5e0a39682\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\50059747b2efa122b2b60bba3e4fc2cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\50059747b2efa122b2b60bba3e4fc2cd\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml:5:5-77
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:41:5-78
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:41:5-78
+	android:name
+		ADDED from E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-68
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:39:5-68
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:39:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-76
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:32:5-76
+MERGED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:32:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-43:58
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
+MERGED from [:react-native-file-viewer] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-file-viewer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-55
+	android:name
+		ADDED from [:rn-fetch-blob] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-67
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-76
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-62
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] E:\Pranit_Projects\LatestProjects\UploadedToPlaystore\29Jan\SM Staff\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+uses-feature#0x00020000
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:11:5-54
+	android:glEsVersion
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:11:19-51
+uses-feature#android.hardware.camera
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:16:9-57
+uses-feature#android.hardware.telephony
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:19:9-50
+uses-feature#android.hardware.bluetooth
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:22:9-50
+uses-feature#android.hardware.microphone
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:25:9-51
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:33:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:34:5-71
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:34:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:37:22-71
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:38:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:40:5-69
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:40:22-66
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:42:5-77
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:42:22-74
+activity#com.zipow.videobox.JoinByURLActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:45:9-49:58
+	android:launchMode
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:48:13-44
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:47:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:49:13-55
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:46:13-64
+activity#com.zipow.videobox.IntegrationActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:50:9-54:58
+	android:launchMode
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:53:13-44
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:52:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:54:13-55
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:51:13-66
+activity#com.zipow.videobox.MeetingEndMessageActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:55:9-58:59
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:57:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:56:13-72
+activity#com.zipow.videobox.JoinMeetingFailActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:59:9-63:59
+	android:launchMode
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:62:13-44
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:61:13-129
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:60:13-70
+activity#com.zipow.videobox.ConfActivityNormal
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:64:9-68:56
+	android:hardwareAccelerated
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:67:13-48
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:66:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:68:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:65:13-65
+activity#com.zipow.videobox.PListActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:69:9-73:56
+	android:hardwareAccelerated
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:72:13-48
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:71:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:73:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:70:13-60
+activity#com.zipow.videobox.InMeetingSettingsActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:74:9-78:56
+	android:hardwareAccelerated
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:77:13-48
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:76:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:78:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:75:13-72
+activity#com.zipow.videobox.ConfChatActivityOld
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:79:9-82:56
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:81:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:82:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:80:13-66
+activity#com.zipow.videobox.MeetingRunningInfoActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:83:9-86:56
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:85:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:86:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:84:13-73
+activity#com.zipow.videobox.CallInActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:87:9-90:56
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:89:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:90:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:88:13-61
+activity#com.zipow.videobox.SimpleActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:91:9-95:70
+	android:windowSoftInputMode
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:95:13-67
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:93:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:94:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:92:13-61
+activity#com.zipow.videobox.SimpleInMeetingActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:96:9-100:70
+	android:windowSoftInputMode
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:100:13-67
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:98:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:99:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:97:13-70
+activity#com.zipow.videobox.poll.PollingActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:101:9-104:56
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:103:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:104:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:102:13-67
+activity#com.zipow.videobox.poll.WebinarPollingActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:105:9-108:56
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:107:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:108:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:106:13-74
+activity#com.zipow.videobox.poll.PollingResultActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:109:9-112:56
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:111:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:112:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:110:13-73
+activity#com.zipow.videobox.poll.WebinarPollingResultActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:113:9-116:56
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:115:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:116:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:114:13-80
+activity#us.zoom.androidlib.app.ZMFileListActivity
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:117:9-120:56
+	android:configChanges
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:119:13-59
+	android:theme
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:120:13-53
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:118:13-69
+service#com.zipow.videobox.kubi.KubiService
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:122:9-125:51
+	android:label
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:125:13-48
+	android:exported
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:124:13-37
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:123:13-63
+service#com.zipow.videobox.OnClearFromRecentService
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:126:9-128:40
+	android:exported
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:127:13-71
+service#com.zipow.videobox.share.ScreenShareServiceForSDK
+ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:129:9-133:51
+	android:label
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:133:13-48
+	android:exported
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:131:13-37
+	android:foregroundServiceType
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:132:13-60
+	android:name
+		ADDED from [us.zoom.sdk:mobilertc:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\852ad59e8270c2310ad4a87aff8f108a\AndroidManifest.xml:130:13-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9e1ead32af0e8afeda3dbe8e88402f9c\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d02f2abe4b8ece15d3c6a067daf337ba\AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d23cad1195b4422db269375619905298\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d34a4bbeb4cc3e78445f5a3c824b236b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d34a4bbeb4cc3e78445f5a3c824b236b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d34a4bbeb4cc3e78445f5a3c824b236b\AndroidManifest.xml:24:13-58
